@@ -1,0 +1,28 @@
+body {
+    background-image:url(https://locations.tacobell.com/permanent-b0b701/assets/images/TBUS_Logo.7bd20747.svg)
+}
+
+div {
+    background-color: white;
+    color: darkblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Comic Sans','sans-serif';
+    text-align: center;
+}
+
+h1 {
+    color: cadetblue;
+    font-weight: bolder;
+    font-family: 'Comic Sans','sans-serif';
+    text-align: center;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    width: 450px;
+}
